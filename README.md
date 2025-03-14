@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Iman Tahami 👋
 
-<!--
-**imantahami/ImanTahami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Product Management professional specializing in digital transformation, AI, and data analytics. Passionate about creating innovative, data-driven products with a strong user-centric approach.
 
-Here are some ideas to get you started:
+**🔧 Skills & Expertise:**
+- Product Lifecycle Management
+- Agile (Scrum, Kanban)
+- Digital Transformation
+- AI & Machine Learning
+- Python, Pandas, Data Visualization
+- Customer-focused design and analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📫 How to reach me:**
+- [LinkedIn](https://www.linkedin.com/in/itahami)
+- Email: 5921973@studenti.unige.it
