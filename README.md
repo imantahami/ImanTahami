@@ -1,14 +1,15 @@
 # 👋 Hi, I'm Iman Tahami
 
 ### 🚀 About Me
-I'm an aspiring **Data Analyst** with a strong foundation in **Python, SQL**, and **Machine Learning**, currently pursuing a Master’s in *Engineering Technology for Strategy and Security* at the University of Genova.  
-With experience in **data-driven decision making**, **data visualization**, and **business analytics**, I enjoy turning raw data into actionable insights that support strategic choices.
+I'm a **Data Analyst** with a strong foundation in **Python, SQL**, and **Machine Learning**, holding a Master’s degree in *Engineering Technology for Strategy and Security* from the University of Genova.  
+With a background in digital product development and data-driven decision making, I turn complex data into actionable insights through analysis and visualization.
 
 ---
 
 ### 🧠 **Skills and Tools**
 - **Programming & Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
 - **Machine Learning (Basic):** Regression, Classification, Clustering (scikit-learn)
+- **Prompt Engineering:** Experience with LLMs (e.g., ChatGPT) for analytical automation
 - **Data Skills:** Data Cleaning, Transformation, EDA, KPI Development
 - **Visualization:** Matplotlib, Seaborn, Excel Dashboards
 - **Soft Skills:** Problem-solving, Analytical Thinking, Team Collaboration
@@ -16,23 +17,23 @@ With experience in **data-driven decision making**, **data visualization**, and 
 ---
 
 ### 🎓 **Education**
-- 🎯 **MSc, Engineering Technology for Strategy and Security** *(2023–Present)*  
-  *University of Genova, Italy*
+- 🎓 **MSc, Engineering Technology for Strategy and Security** *(2023–2025)*  
+  *University of Genova, Italy* ✅ *Completed*
 
-- 🎯 **BSc, Information Technology Engineering** *(2008–2014)*  
+- 🎓 **BSc, Information Technology Engineering** *(2008–2014)*  
   *Shiraz University of Technology, Iran*
 
 ---
 
 ### 💼 **Professional Experience**
 - **Data Analyst Assistant** *(Ramak Dairy, Iran — 2019–2021)*  
-  Built data-driven models to reduce logistics costs and segment customers using Python.
+  Developed models to reduce logistics costs and segment customers using Python.
 
 - **Marketing Data Analyst** *(Tirazis Chain Store, Iran — 2018–2019)*  
-  Developed visual reports on promotional performance, increasing sales by 11%.
+  Visualized promotional performance, increasing campaign effectiveness by 11%.
 
-- **Digital Product Development** *(Cross-functional roles)*  
-  Integrated analytics into product and marketing strategies to optimize operations.
+- **Digital Product Development Roles** *(Cross-functional)*  
+  Integrated data analysis into business and marketing strategies.
 
 ---
 
@@ -52,4 +53,4 @@ With experience in **data-driven decision making**, **data visualization**, and 
 
 ---
 
-### 📌 *Check out my pinned projects to see my work in Python, SQL, and data visualization!*
+### 📌 *Explore my projects in Python, SQL, data visualization, and prompt engineering.*
