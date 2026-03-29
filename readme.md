@@ -14,6 +14,16 @@ I am a **Data Analyst** with a strong background in Information Technology. Afte
 
 ---
 
+### 🏆 Featured Projects
+| Project Name | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [**Customer Retention Analysis**](https://github.com/imantahami/PowerBI-Customer-Retention-Analytics) | `Power BI`, `SQL`, `DAX` | End-to-end churn analysis & retention dashboard. |
+| [**Bondora Loan Regression**](https://github.com/imantahami/bondora-regression) | `Python`, `ML`, `Scikit-Learn` | Predictive modeling for loan default risk. |
+| [**Digital Heritage Project**](https://github.com/imantahami/digital-heritage) | `Data Viz`, `Web` | Visualizing Chicago's architecture post-1871 fire. |
+| [**AI Travel Agent**](https://github.com/imantahami/AI_Travel_agent_Streamlit) | `LLMs`, `Streamlit`, `Python` | AI-powered travel planning application. |
+
+---
+
 ### 🛠 Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
