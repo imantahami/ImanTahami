@@ -1,4 +1,4 @@
-# 👋 Ciao! I'm Iman Tahami
+# 👋 Ciao! I'm Seyed Iman Tahami
 
 ### 📊 Data Analyst | MS in Strategic Engineering (STRATEGOS) @ UniGe
 📍 Based in **Turin, Italy** | 🇮🇹 Italian A2 | 🎓 35 years old
@@ -17,9 +17,9 @@ I am a **Data Analyst** specializing in **Strategic Engineering** with a proven 
 ### 🏆 Featured Projects
 | Project Name | Tech Stack | Key Contribution |
 | :--- | :--- | :--- |
-| [**Customer Retention Analysis**](https://github.com/imantahami/PowerBI-Customer-Retention-Analytics) | `Power BI`, `SQL`, `DAX` | End-to-end churn analysis & retention dashboard. |
-| [**RFM Customer Segmentation**](https://github.com/imantahami/bondora-regression) | `Python`, `Pandas`, `Matplotlib` | Implementing RFM models to drive marketing strategies. |
-| [**Digital Heritage Project**](https://github.com/imantahami/digital-heritage) | `Tableau`, `Data Viz` | Interactive storytelling of Chicago's post-fire architecture. |
+| [**Customer Retention Analytics**](https://github.com/imantahami/PowerBI-Customer-Retention-Analytics) | `Power BI`, `SQL`, `DAX` | End-to-end churn analysis & retention dashboard based on SQL analysis. |
+| [**Bondora Loan Regression**](https://github.com/imantahami/bondora-regression) | `Python`, `ML`, `Random Forest` | Predicting P2P loan outcomes using regression models and feature engineering. |
+| [**Digital Heritage Project**](https://github.com/imantahami/digital-heritage) | `Tableau`, `Data Viz` | Interactive storytelling of Chicago's post-fire architecture (University Project). |
 
 ---
 
