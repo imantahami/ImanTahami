@@ -1,4 +1,4 @@
-# 👋 Ciao! I'm Seyed Iman Tahami
+# 👋 Ciao! I'm Iman Tahami
 
 ### 📊 Data Analyst | MSc in Strategic Engineering (STRATEGOS) @ UniGe
 📍 Based in **Turin, Italy** | 🇮🇹 Italian A2 | 🎓 35 years old
