@@ -1,56 +1,47 @@
-# 👋 Hi, I'm Iman Tahami
+# 👋 Ciao! I'm Seyed Iman Tahami
 
-### 🚀 About Me
-I'm a **Data Analyst** with a strong foundation in **Python, SQL**, and **Machine Learning**, holding a Master’s degree in *Engineering Technology for Strategy and Security* from the University of Genova.  
-With a background in digital product development and data-driven decision making, I turn complex data into actionable insights through analysis and visualization.
-
----
-
-### 🧠 **Skills and Tools**
-- **Programming & Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
-- **Machine Learning (Basic):** Regression, Classification, Clustering (scikit-learn)
-- **Prompt Engineering:** Experience with LLMs (e.g., ChatGPT) for analytical automation
-- **Data Skills:** Data Cleaning, Transformation, EDA, KPI Development
-- **Visualization:** Matplotlib, Seaborn, Excel Dashboards
-- **Soft Skills:** Problem-solving, Analytical Thinking, Team Collaboration
+### 📊 Data Analyst | MS in Strategic Engineering (STRATEGOS) @ UniGe
+📍 Based in **Turin, Italy** | 🇮🇹 Italian A2 Learner | 🎓 35 years old
 
 ---
 
-### 🎓 **Education**
-- 🎓 **MSc, Engineering Technology for Strategy and Security** *(2023–2025)*  
-  *University of Genova, Italy* ✅ *Completed*
+### 🚀 Summary
+I am a **Data Analyst** with a strong background in Information Technology. After 4+ years of professional experience in **Ramak Dairy** and **Tirazis**, I moved to Italy to specialize in **Strategic Engineering**. I excel at transforming complex datasets into actionable business insights through SQL, Python, and Power BI.
 
-- 🎓 **BSc, Information Technology Engineering** *(2008–2014)*  
-  *Shiraz University of Technology, Iran*
-
----
-
-### 💼 **Professional Experience**
-- **Data Analyst Assistant** *(Ramak Dairy, Iran — 2019–2021)*  
-  Developed models to reduce logistics costs and segment customers using Python.
-
-- **Marketing Data Analyst** *(Tirazis Chain Store, Iran — 2018–2019)*  
-  Visualized promotional performance, increasing campaign effectiveness by 11%.
-
-- **Digital Product Development Roles** *(Cross-functional)*  
-  Integrated data analysis into business and marketing strategies.
+- 🔭 **Current Focus:** Advanced Data Visualization and Churn Analysis.
+- 🎓 **Education:** MSc in Engineering Technology for Strategy and Security (University of Genova).
+- 💡 **Key Achievement:** Improved campaign effectiveness by 11% at Tirazis Chain Store.
 
 ---
 
-### 📚 **Certifications**
-- ✅ Mastering Data Analysis with Pandas *(Coursera)*
-- ✅ Python for Data Visualization *(Coursera)*
-- ✅ Marketing Analytics with Meta *(Coursera)*
-- ✅ Azure AI Fundamentals *(Microsoft)*
-- ✅ ChatGPT Prompt Engineering *(DeepLearning.ai)*
+### 🛠 Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-### 📫 **Contact Me**
-- 📧 **Email:** [5921973@studenti.unige.it](mailto:5921973@studenti.unige.it)
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/itahami)
-- 💻 [**GitHub**](https://github.com/imantahami)
+### 📈 GitHub Stats
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imantahami&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imantahami&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-### 📌 *Explore my projects in Python, SQL, data visualization, and prompt engineering.*
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itahami/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:5921973@studenti.unige.it)
+
+---
+*“Data is the new oil, but only if you know how to refine it.”*
