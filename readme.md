@@ -1,54 +1,73 @@
 # 👋 Ciao! I'm Iman Tahami
 
-### 📊 Data Analyst | MS in Strategic Engineering (STRATEGOS) @ UniGe
-📍 Based in **Turin, Italy** | 🇮🇹 Italian A2 | 🎓 35 years old
+📊 Data Analyst  
+🎓 MSc in Strategic Engineering (STRATEGOS) @ University of Genoa  
+📍 Based in Turin, Italy  
+🇮🇹 Italian A2 | 🇬🇧 English C1  
 
 ---
 
-### 🚀 Professional Profile
-I am a **Data Analyst** specializing in **Strategic Engineering** with a proven track record of transforming complex datasets into actionable business insights. My expertise lies in bridging the gap between mathematical modeling and business strategy using modern AI tools.
+## About Me
 
-- [cite_start]🔬 **Current Role:** Data Analyst Intern at the **University of Genoa**, supporting research through SQL, Python, and Tableau[cite: 21, 22].
-- [cite_start]💡 **Key Expertise:** RFM Segmentation, ETL Processes, and Predictive Analytics[cite: 6, 10, 12].
-- [cite_start]📈 **Impact:** Improved operational accuracy by **10%** at Ramak Dairy and optimized CRM for **25 branches** at Tirazis[cite: 30, 32].
+Data Analyst with experience in customer analytics, CRM optimization, KPI reporting, and dashboard development across retail, FMCG, and research environments.
 
----
-
-### 🏆 Featured Projects
-| Project Name | Tech Stack | Key Contribution |
-| :--- | :--- | :--- |
-| [**Customer Retention Analytics**](https://github.com/imantahami/PowerBI-Customer-Retention-Analytics) | `Power BI`, `SQL`, `DAX` | End-to-end churn analysis & retention dashboard based on SQL analysis. |
-| [**Bondora Loan Regression**](https://github.com/imantahami/bondora-regression) | `Python`, `ML`, `Random Forest` | Predicting P2P loan outcomes using regression models and feature engineering. |
-| [**Digital Heritage (Vibe Coding)**](https://github.com/imantahami/digital-heritage) | `React`, `Vite`, `AI-Powered` | An interactive web app built using **Vibe Coding** and Lovable. |
+I work with **Python, SQL, Tableau, Excel**, and I am currently expanding my portfolio in **Power BI**. I enjoy transforming raw data into clear, actionable insights that support business and research decision-making.
 
 ---
 
-### 🛠 Tech Stack & Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI_Vibe_Coding-FF6F61?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+## Current Focus
 
-- [cite_start]**Analysis:** EDA, ETL, Scenario Analysis, Game Theory[cite: 12, 13, 17].
-- **Methodologies:** Vibe Coding, Prompt Engineering, Rapid Prototyping.
-- [cite_start]**Soft Skills:** Data Storytelling, Stakeholder Management, Problem-solving[cite: 14, 42].
+- Building business-oriented **Power BI dashboards**
+- Strengthening **data modeling** and **DAX**
+- Expanding my analytics portfolio for opportunities in **Italy and Europe**
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imantahami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imantahami&layout=compact&theme=tokyonight&hide_progress=true"/>
-</p>
+## Featured Projects
+
+### Customer Retention Analytics
+**Tech Stack:** Power BI, SQL, DAX  
+Built an interactive dashboard to analyze churn patterns, retention KPIs, and customer behavior.
+
+### Bondora Loan Regression
+**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib  
+Developed a machine learning workflow to predict loan outcomes using feature engineering and regression models.
+
+### Digital Heritage App
+**Tech Stack:** React, Vite  
+Built an interactive web application with a focus on user experience and rapid prototyping.
 
 ---
 
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itahami/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Imantahami.1989@gmail.com)
+## Skills
+
+**Analytics & BI**  
+SQL, Python, Excel, Tableau, Power BI
+
+**Libraries & Tools**  
+Pandas, NumPy, Scikit-learn, Matplotlib
+
+**Business & Reporting**  
+KPI Reporting, CRM Analytics, Customer Segmentation, Data Visualization, ETL, EDA
 
 ---
-*“Data is the new oil, but only if you know how to refine it.”*
+
+## What I’m Looking For
+
+I am currently interested in opportunities as:
+
+- Data Analyst
+- BI Analyst
+- CRM / Customer Analyst
+- Reporting Analyst
+
+---
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/itahami/)
+- 📧 Email: imantahami.1989@gmail.com
+
+---
+
+> “Data is only valuable when it leads to better decisions.”
