@@ -1,16 +1,16 @@
 # 👋 Ciao! I'm Iman Tahami
 
-### 📊 Data Analyst | MSc in Strategic Engineering (STRATEGOS) @ UniGe
+### 📊 Data Analyst | MS in Strategic Engineering (STRATEGOS) @ UniGe
 📍 Based in **Turin, Italy** | 🇮🇹 Italian A2 | 🎓 35 years old
 
 ---
 
 ### 🚀 Professional Profile
-I am a **Data Analyst** specializing in **Strategic Engineering** with a proven track record of transforming complex datasets into actionable business insights. [cite_start]My expertise lies in bridging the gap between mathematical modeling and business strategy[cite: 4, 5, 13].
+I am a **Data Analyst** specializing in **Strategic Engineering** with a proven track record of transforming complex datasets into actionable business insights. My expertise lies in bridging the gap between mathematical modeling and business strategy.
 
-- [cite_start]🔬 **Current Role:** Data Analyst Intern at the **University of Genoa**, supporting research through SQL, Python, and Tableau[cite: 21, 22].
-- [cite_start]💡 **Key Expertise:** RFM Segmentation, ETL Processes, and Predictive Analytics[cite: 6, 10, 12].
-- [cite_start]📈 **Impact:** Improved operational accuracy by **10%** at Ramak Dairy and optimized CRM for **25 branches** at Tirazis[cite: 30, 32].
+- 🔬 **Current Role:** Data Analyst Intern at the **University of Genoa**, supporting research through SQL, Python, and Tableau.
+- 💡 **Key Expertise:** RFM Segmentation, ETL Processes, and Predictive Analytics.
+- 📈 **Impact:** Improved operational accuracy by **10%** at Ramak Dairy and optimized CRM for **25 branches** at Tirazis.
 
 ---
 
@@ -18,8 +18,8 @@ I am a **Data Analyst** specializing in **Strategic Engineering** with a proven 
 | Project Name | Tech Stack | Key Contribution |
 | :--- | :--- | :--- |
 | [**Customer Retention Analysis**](https://github.com/imantahami/PowerBI-Customer-Retention-Analytics) | `Power BI`, `SQL`, `DAX` | End-to-end churn analysis & retention dashboard. |
-| [**RFM Customer Segmentation**](https://github.com/imantahami/bondora-regression) | `Python`, `Pandas`, `Matplotlib` | [cite_start]Implementing RFM models to drive marketing strategies[cite: 6, 33]. |
-| [**Digital Heritage Project**](https://github.com/imantahami/digital-heritage) | `Tableau`, `Data Viz` | [cite_start]Interactive storytelling of Chicago's post-fire architecture[cite: 24]. |
+| [**RFM Customer Segmentation**](https://github.com/imantahami/bondora-regression) | `Python`, `Pandas`, `Matplotlib` | Implementing RFM models to drive marketing strategies. |
+| [**Digital Heritage Project**](https://github.com/imantahami/digital-heritage) | `Tableau`, `Data Viz` | Interactive storytelling of Chicago's post-fire architecture. |
 
 ---
 
@@ -32,8 +32,8 @@ I am a **Data Analyst** specializing in **Strategic Engineering** with a proven 
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-- [cite_start]**Analysis:** EDA, ETL, Scenario Analysis, Game Theory[cite: 12, 13, 17].
-- [cite_start]**Soft Skills:** Data Storytelling, Stakeholder Management, Problem-solving[cite: 14, 42].
+- **Analysis:** EDA, ETL, Scenario Analysis, Game Theory.
+- **Soft Skills:** Data Storytelling, Stakeholder Management, Problem-solving.
 
 ---
 
@@ -45,6 +45,9 @@ I am a **Data Analyst** specializing in **Strategic Engineering** with a proven 
 
 ---
 
-### 📫 Connect with me:
+### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itahami/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Imantahami.1989@gmail.com)
+
+---
+*“Data is the new oil, but only if you know how to refine it.”*
