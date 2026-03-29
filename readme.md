@@ -8,9 +8,9 @@
 ### 🚀 Professional Profile
 I am a **Data Analyst** specializing in **Strategic Engineering** with a proven track record of transforming complex datasets into actionable business insights. My expertise lies in bridging the gap between mathematical modeling and business strategy using modern AI tools.
 
-- 🔬 **Current Role:** Data Analyst Intern at the **University of Genoa**, supporting research through SQL, Python, and Tableau.
-- 💡 **Key Expertise:** RFM Segmentation, ETL Processes, and Predictive Analytics.
-- 📈 **Impact:** Improved operational accuracy by **10%** at Ramak Dairy and optimized CRM for **25 branches** at Tirazis.
+- [cite_start]🔬 **Current Role:** Data Analyst Intern at the **University of Genoa**, supporting research through SQL, Python, and Tableau[cite: 21, 22].
+- [cite_start]💡 **Key Expertise:** RFM Segmentation, ETL Processes, and Predictive Analytics[cite: 6, 10, 12].
+- [cite_start]📈 **Impact:** Improved operational accuracy by **10%** at Ramak Dairy and optimized CRM for **25 branches** at Tirazis[cite: 30, 32].
 
 ---
 
@@ -32,16 +32,16 @@ I am a **Data Analyst** specializing in **Strategic Engineering** with a proven 
   <img src="https://img.shields.io/badge/AI_Vibe_Coding-FF6F61?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-- **Analysis:** EDA, ETL, Scenario Analysis, Game Theory.
+- [cite_start]**Analysis:** EDA, ETL, Scenario Analysis, Game Theory[cite: 12, 13, 17].
 - **Methodologies:** Vibe Coding, Prompt Engineering, Rapid Prototyping.
-- **Soft Skills:** Data Storytelling, Stakeholder Management, Problem-solving.
+- [cite_start]**Soft Skills:** Data Storytelling, Stakeholder Management, Problem-solving[cite: 14, 42].
 
 ---
 
 ### 📈 GitHub Stats
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imantahami&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imantahami&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imantahami&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imantahami&layout=compact&theme=tokyonight&hide_progress=true"/>
 </p>
 
 ---
