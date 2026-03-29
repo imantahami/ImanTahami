@@ -65,8 +65,8 @@ I am currently interested in opportunities as:
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/itahami/)
-- 📧 Email: imantahami.1989@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iman%20Tahami-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itahami/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:imantahami.1989@gmail.com)
 
 ---
 
