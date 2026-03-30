@@ -9,9 +9,11 @@
 
 ## About Me
 
-Data Analyst with experience in customer analytics, CRM optimization, KPI reporting, and dashboard development across retail, FMCG, and research environments.
+Data Analyst with hands-on experience in customer analytics, CRM optimization, KPI reporting, and dashboard development across retail, FMCG, and research environments.
 
-I work with **Python, SQL, Tableau, Excel**, and I am currently expanding my portfolio in **Power BI**. I enjoy transforming raw data into clear, actionable insights that support business and research decision-making.
+Skilled in SQL, Python, Power BI, Tableau, and Excel, with a strong focus on transforming raw data into actionable insights that support better business and research decisions.
+
+Currently building business-oriented BI projects and strengthening my skills in data modeling, DAX, and analytics storytelling for opportunities in Italy and Europe.
 
 ---
 
